@@ -1,5 +1,3 @@
-Here is the project documentation based on the provided Python code, formatted as requested.
-
 ### ## Project Title
 **Sales Metrics & Profitability Calculator**
 
